@@ -1,10 +1,11 @@
 import React from 'react';
+import { About } from '../index';
 
 const Content = () => {
   return (
-      <main>
-        Content goes here
-      </main>
+    <main className="w-screen h-fit p-12">
+      <About />
+    </main>
   );
 };
 
