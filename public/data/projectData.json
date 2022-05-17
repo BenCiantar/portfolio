@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Squared",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "Good Luck Chuck",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "The Ultimate Marvel Fan Quiz",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "The White Rabbit",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "DnD Encounter Builder",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "Runic",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "Happening",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  },
+  {
+    "name": "Portfolio",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "url",
+    "githubUrl": "url",
+    "stack": ["JavaScript", "HTML", "SCSS", "Grid", "Flexbox"]
+  }
+]
