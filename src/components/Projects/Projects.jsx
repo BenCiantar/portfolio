@@ -1,9 +1,19 @@
 import React, { useEffect, useState } from 'react';
-import { data } from '../../data/projectData';
 
 const Projects = () => {
-  const rows = data.map((project, i) => (
-    <article key={"project" + i}>
+  const [projects, setProjects] = useState([]);
+
+  useEffect(() => {
+    getProjectData();
+  }, []);
+
+  const getProjectData = async () => {
+    const allProjects = await fetch("data/projectData.json");
+    setProjects(await allProjects.json());
+  };
+
+  const rows = projects.map((project, i) => (
+    <article key={'project' + i}>
       <p>{project.name}</p>
       <p>{project.type}</p>
     </article>
