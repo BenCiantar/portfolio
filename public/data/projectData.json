@@ -2,6 +2,7 @@
   {
     "name": "Squared",
     "date": "Sep 2021",
+    "type": "Individual",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -12,6 +13,7 @@
   {
     "name": "The Ultimate Marvel Fan Quiz",
     "date": "Oct 2021",
+    "type": "Group",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -22,6 +24,7 @@
   {
     "name": "The White Rabbit",
     "date": "Oct 2021",
+    "type": "Group",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -32,6 +35,7 @@
   {
     "name": "Good Luck Chuck",
     "date": "Nov 2021",
+    "type": "Group",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -42,6 +46,7 @@
   {
     "name": "DnD Encounter Builder",
     "date": "Jan 2022",
+    "type": "Individual",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -52,6 +57,7 @@
   {
     "name": "Runic",
     "date": "Mar 2022",
+    "type": "Individual",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -62,6 +68,7 @@
   {
     "name": "Happening",
     "date": "Apr 2022",
+    "type": "Group",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -72,6 +79,7 @@
   {
     "name": "Portfolio",
     "date": "May 2022",
+    "type": "Individual",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
