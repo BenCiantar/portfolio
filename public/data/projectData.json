@@ -1,6 +1,7 @@
 [
   {
     "name": "Squared",
+    "date": "Sep 2021",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -9,16 +10,8 @@
     "stack": ["JavaScript", "HTML", "SCSS"]
   },
   {
-    "name": "Good Luck Chuck",
-    "about": "Description.",
-    "desktopImg": "img",
-    "mobileImg": "img",
-    "liveUrl": "https://benciantar-good-luck-chuck.netlify.app",
-    "githubUrl": "https://github.com/BenCiantar/zombie-game-project",
-    "stack": ["JavaScript", "Phaser", "Node.js"]
-  },
-  {
     "name": "The Ultimate Marvel Fan Quiz",
+    "date": "Oct 2021",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -28,6 +21,7 @@
   },
   {
     "name": "The White Rabbit",
+    "date": "Oct 2021",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -36,7 +30,18 @@
     "stack": ["JavaScript", "SCSS"]
   },
   {
+    "name": "Good Luck Chuck",
+    "date": "Nov 2021",
+    "about": "Description.",
+    "desktopImg": "img",
+    "mobileImg": "img",
+    "liveUrl": "https://benciantar-good-luck-chuck.netlify.app",
+    "githubUrl": "https://github.com/BenCiantar/zombie-game-project",
+    "stack": ["JavaScript", "Phaser", "Node.js"]
+  },
+  {
     "name": "DnD Encounter Builder",
+    "date": "Jan 2022",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -46,6 +51,7 @@
   },
   {
     "name": "Runic",
+    "date": "Mar 2022",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -55,6 +61,7 @@
   },
   {
     "name": "Happening",
+    "date": "Apr 2022",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
@@ -64,6 +71,7 @@
   },
   {
     "name": "Portfolio",
+    "date": "May 2022",
     "about": "Description.",
     "desktopImg": "img",
     "mobileImg": "img",
